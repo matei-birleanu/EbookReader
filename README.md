@@ -190,6 +190,12 @@ This project brings together multiple hardware components to form a compact, sma
 | 101       | U1               | [Link](https://www.snapeda.com/parts/W25Q512JVEIQ/Winbond+Electronics/view-part/?ref=eda)                                                     | [Datasheet](https://www.snapeda.com/parts/W25Q512JVEIQ/Winbond+Electronics/view-part/?ref=eda)                                                              |
 | 102       | U2               | [Link](https://www.snapeda.com/parts/ESP32-C6-WROOM-1-N8/Espressif+Systems/view-part/?ref=eda)                                                | [Datasheet](https://www.snapeda.com/parts/ESP32-C6-WROOM-1-N8/Espressif%20Systems/datasheet/)                                                               |
 | 103       | U3               | [Link](https://www.snapeda.com/parts/DS3231SN%23/Analog+Devices/view-part/?ref=eda)                                                           | [Datasheet](https://www.snapeda.com/parts/DS3231SN%23/Analog%20Devices/datasheet/)                                                                          |
-| 104       | U4               | [Link](https://www.snapeda.com/parts/MAX17048G+T10/Analog+Devices/view-part/?ref=eda)                                                         | [Datasheet](https://www.snapeda.com/parts/MAX17048G+T10/Analog%20Devices/datasheet/)         ![Capture2](https://github.com/user-attachments/assets/27ca0f67-3b77-4807-8d59-7c044dc20cf9)
-![Capture](https://github.com/user-attachments/assets/1808be2d-b36a-4390-97b2-901d82b38120)
+| 104       | U4               | [Link](https://www.snapeda.com/parts/MAX17048G+T10/Analog+Devices/view-part/?ref=eda)                                                         | [Datasheet](https://www.snapeda.com/parts/MAX17048G+T10/Analog%20Devices/datasheet/)         
                                          |
+
+
+
+
+
+![Capture2](https://github.com/user-attachments/assets/27ca0f67-3b77-4807-8d59-7c044dc20cf9)
+![Capture](https://github.com/user-attachments/assets/1808be2d-b36a-4390-97b2-901d82b38120)
