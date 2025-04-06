@@ -3,7 +3,8 @@
 This project brings together multiple hardware components to form a compact, smart, and efficient embedded system. It supports wireless communication, environmental monitoring, timekeeping, data storage, battery management, and user interaction via a low-power display.
 
 ---
-![schema-bloc](https://github.com/user-attachments/assets/7a9af48c-e689-4264-8809-329f8d36cd3e)
+![ChatGPT Image Apr 6, 2025, 03_02_43 PM](https://github.com/user-attachments/assets/420d8c18-daf6-4f88-8ba5-1b091d3b5e47)
+
 
 ## 🔧 Components
 
